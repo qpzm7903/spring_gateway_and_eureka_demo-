@@ -105,11 +105,11 @@ https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-ser
 
 
 
-[网关官方启动文档]([Getting Started | Building a Gateway](https://spring.io/guides/gs/gateway/))
+[网关官方启动文档](https://spring.io/guides/gs/gateway/))
 
 
 
-[网关官方参考文档]([Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/reference/html/))
+[网关官方参考文档](https://cloud.spring.io/spring-cloud-gateway/reference/html/)
 
 
 
